@@ -1,2 +1,1 @@
-# .github
-Readme
+# Rhiannon AI, LLC
